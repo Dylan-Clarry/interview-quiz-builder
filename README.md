@@ -1,6 +1,6 @@
-# create-svelte
+# Interview Quiz Builder
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+A small side project to try out SvelteKit and practice for interviews
 
 ## Creating a project
 
